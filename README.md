@@ -7,7 +7,7 @@
 ## 🚀 About Me  
 - 🎓 Pursuing **B.Tech CSE @ Graphic Era Hill University, Dehradun**  
 - 🥇 **Hackathon Finalist @ InnovateX 2025** (AI Drone Image Analysis for Disaster Response)  
-- ⚡ Expert competitive programmer with strong problem-solving skills  
+- ⚡ Expert @ CodeForces, 4⭐ Star @ CodeChef.
 - 🌱 Currently learning **Generative AI & System Design**  
 - 💡 Open to **SDE / AI-ML / Full-Stack opportunities**  
 
