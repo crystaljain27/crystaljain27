@@ -1,15 +1,13 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Crystal Jain</h1>
-<h3 align="center">B.Tech CSE Student | Full-Stack Developer | AI & ML Enthusiast</h3>
+<h3 align="center">B.Tech CSE Student | Full-Stack Developer | AI/ML | Cloud</h3>
 
 ---
 
 ## 🚀 About Me  
-- 🎓 Pursuing **B.Tech in Computer Science and Engineering @ Graphic Era Hill University, Dehradun**  
-- 💻 Passionate about **Full-Stack Development, AI/ML, and Cloud Computing**  
-- 🥇 **Hackathon Finalist @ InnovateX 2025** (AI Drone Image Analysis for Disaster Management)  
-- 🌍 **LeetCode Rating: 1800+ (Top 7% globally)**  
-- 📈 Solved **500+ DSA problems** and active in contests & hackathons  
+- 🎓 Pursuing **B.Tech CSE @ Graphic Era Hill University, Dehradun**  
+- 🥇 **Hackathon Finalist @ InnovateX 2025** (AI Drone Image Analysis for Disaster Response)  
+- ⚡ Expert competitive programmer with strong problem-solving skills  
 - 🌱 Currently learning **Generative AI & System Design**  
 - 💡 Open to **SDE / AI-ML / Full-Stack opportunities**  
 
@@ -20,8 +18,8 @@
 <p align="center">
   <a href="mailto:crystaljain2711@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/crystal-jain-b10025264"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/jain_crystal_27/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://instagram.com/_crystaljain"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/sweeny"><img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/sweeny_27"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
   <a href="https://personal-portfolio-six-virid-53.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://github.com/crystaljain27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
@@ -29,7 +27,6 @@
 ---
 
 # 💻 Tech Stack  
-
 
 **Languages**  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -73,58 +70,43 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
 
-**Tools**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)  
-
 ---
 
 # 📌 Featured Projects  
 
-### 🔬 [VisionCheck – AI-Powered Eye Disease Detector](https://github.com/crystaljain27/VisionCheck)  
-*Python | TensorFlow | OpenCV | Flask*  
-- Trained CNN on **10k+ retinal images** with **81% accuracy** across 4 diseases  
-- Flask web app with **real-time retinal image uploads & predictions**  
-- Deployed on cloud, serving **1000+ monthly users**  
+### 📊 Customer Churn Prediction System  
+*Python | ML | Streamlit*  
+- Built ML model predicting churn with high accuracy  
+- Visual dashboard for customer analytics  
+- Automated preprocessing + prediction pipeline  
 
-### 💬 [MERN Real-Time Chat App](https://github.com/crystaljain27/fullstack-chat-app) · [🌐 Live Demo](https://fullstack-chat-app-orcin.vercel.app/)  
-*MERN + Socket.io*  
-- Sub-200ms latency **real-time chat**  
-- JWT authentication & bcrypt security  
-- Deployed on **Vercel + Render**  
+### 🤖 AI Resume Builder  
+*React | Node.js | Gemini API*  
+- Generates professional resumes using AI  
+- Supports multiple templates & PDF export  
+- Secure backend with API rate protection  
 
-### 🍴 [Forkify – Food Delivery App](https://github.com/crystaljain27/forkify-food-delivery-app) · [🌐 Live Demo](https://forkify-food-delivery-app.vercel.app/)  
+### 📝 QuickBlog – Full Stack Blog Platform  
 *MERN Stack*  
-- Role-based dashboards for customers, admins, delivery partners  
-- Secure APIs with JWT; supports 1000+ concurrent requests  
-- Optimized frontend with lazy loading (35% faster loads)  
-
----
-
-# 📊 GitHub Stats  
-
-![](https://github-readme-stats.vercel.app/api?username=crystaljain27&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=crystaljain27&theme=ocean_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=crystaljain27&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- Create, edit & manage blogs with rich text editor  
+- User authentication + role-based access  
+- Deployed on **Vercel + Render**  
 
 ---
 
 ## 🏆 Achievements  
-- 🥇 **Hackathon Finalist** – InnovateX 2025  
-- 🌍 **Top 7% LeetCoder** with 1800+ rating  
-- 💡 **500+ DSA problems solved**  
+- 🥇 **Hackathon Finalist – InnovateX 2025**  
+- ⚡ **Expert at Codeforces** – Competitive Programming  
+- ⭐ **4★ Rated at CodeChef**  
 
 ---
 
-## 🏆 GitHub Trophies & Profile Views  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=crystaljain27&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=crystaljain27&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=crystaljain27&icon=0&color=0" alt="profile views" />
+  <img src="https://visitcount.itsvg.in/api?id=crystaljain27&icon=0&color=0" />
 </p>
 
 ---
