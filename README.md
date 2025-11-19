@@ -7,7 +7,7 @@
 ## 🚀 About Me  
 - 🎓 Pursuing **B.Tech CSE @ Graphic Era Hill University, Dehradun**  
 - 🥇 **Hackathon Finalist @ InnovateX 2025** (AI Drone Image Analysis for Disaster Response)  
-- ⚡ Expert @ CodeForces, 4⭐ Star @ CodeChef.
+- ⚡ Expert @ CodeForces.
 - 🌱 Currently learning **Generative AI & System Design**  
 - 💡 Open to **SDE / AI-ML / Full-Stack opportunities**  
 
@@ -19,7 +19,6 @@
   <a href="mailto:crystaljain2711@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/crystal-jain-b10025264"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://codeforces.com/profile/sweeny"><img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <a href="https://www.codechef.com/users/sweeny_27"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
   <a href="https://personal-portfolio-six-virid-53.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://github.com/crystaljain27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
@@ -78,18 +77,18 @@
 *Python | ML | Streamlit*  
 - Built ML model predicting churn with high accuracy  
 - Visual dashboard for customer analytics  
-- Automated preprocessing + prediction pipeline  
+- Automated preprocessing and prediction pipeline  
 
 ### 🤖 AI Resume Builder  
 *React | Node.js | Gemini API*  
 - Generates professional resumes using AI  
-- Supports multiple templates & PDF export  
+- Supports multiple templates and PDF export  
 - Secure backend with API rate protection  
 
 ### 📝 QuickBlog – Full Stack Blog Platform  
 *MERN Stack*  
-- Create, edit & manage blogs with rich text editor  
-- User authentication + role-based access  
+- Create, edit and manage blogs with rich text editor  
+- User authentication and role based access  
 - Deployed on **Vercel + Render**  
 
 ---
@@ -97,7 +96,6 @@
 ## 🏆 Achievements  
 - 🥇 **Hackathon Finalist – InnovateX 2025**  
 - ⚡ **Expert at Codeforces** – Competitive Programming  
-- ⭐ **4★ Rated at CodeChef**  
 
 ---
 
@@ -111,4 +109,4 @@
 
 ---
 
-⭐ *"Building scalable apps, solving problems, and exploring AI – one project at a time."*  
+⭐ *"Building scalable apps, solving problems, and exploring AI – one project at a time."*
